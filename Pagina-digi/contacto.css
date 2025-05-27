@@ -1,0 +1,32 @@
+.contact-info {
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
+
+.contact-info p {
+    margin: 5px 0;
+}
+
+.contact form div {
+    margin-bottom: 15px;
+}
+
+.contact label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.contact input[type="text"],
+.contact input[type="email"],
+.contact textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.contact textarea {
+    resize: vertical;
+}
